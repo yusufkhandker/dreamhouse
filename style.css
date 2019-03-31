@@ -1,0 +1,167 @@
+.background{
+	background-color: blue;
+}
+.header {
+	  overflow: hidden;
+    margin-top: 20px;
+    background-color: white;
+	
+}
+
+.container{
+	margin: 0 auto;
+	width: 90%;
+	overflow: hidden;
+}
+
+.logo{
+	width: 25%;
+	float: left;
+	padding: 20px;
+
+
+}
+.menu{
+	width: 60%;
+	float: right;
+  margin: 0px -100px;
+	
+
+
+
+
+}
+.menu ul{ 
+ }
+.menu ul a:hover{
+	color: #6499DB;
+}
+.menu ul a{
+      transition: 0.4s;
+	text-decoration: none;
+	color: black;
+	float: left;
+    padding: 26px 20px;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+
+  .banner{
+  	background-image: url(images/home.jpg);
+  	min-height: 500px;
+  	background-size: cover;
+  }
+
+  .banner_contain{
+  	padding: 100px 33px;
+  	font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+
+  }
+
+.back{background-color: rgba(133, 230, 182, 0.43);
+
+  	width: 450px;
+  	transition-property: 20%;
+ }
+.back button{
+    padding: 10px;
+    border: none;
+    margin: 20px 1px;
+    background-color: #060606;
+    color: white;
+}
+
+ .back a{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+ }
+
+
+.part3{
+  width: 100%;
+  min-height: 300px;
+  
+}
+
+.trdcontainer {
+    padding: 0px 20px;
+    float: left;
+    overflow: hidden;
+    margin-top: 45px;
+    width: 350px;
+    
+}
+
+.trdcontainer h1 {
+  font-size: 25px;
+  font-family: sans-serif;
+  margin: 20px 93px;
+
+}
+
+.trdcontainer img{
+  margin: 0px 55px;
+}
+
+.trdcontainer p{
+  font-size: 13px;
+  font-family: sans-serif;
+}
+
+.trdcontainer button{
+    margin: 0px 125px;
+    border: none;
+    background-color: black;
+    padding: 5px 15px;
+    color: white;
+}
+
+.footer{
+  width: 100%;
+}
+
+.texts1{
+    overflow: hidden;
+    
+    margin: auto;
+    width: 400px;
+}
+
+.texts1 p{
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.text2{
+
+}
+
+.text2 p{
+  font-size: 13px;
+  font-family: sans-serif;
+  margin: 0px 52px;
+}
+
+.text2 img{
+    margin: 5px 110px;
+    width: 180px;
+}
+
+
+
+.footimg{
+    margin: 10px 135px;
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
